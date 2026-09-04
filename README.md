@@ -65,10 +65,10 @@ I published a facial expression recognition model that received an **Outstanding
 
 <br>
 
-Sou Engenheiro de Software e construo produtos financeiros na **Finuse**, onde sou o maior contribuidor individual de uma plataforma de pagamentos que já processou **mais de R$ 2 milhões** em transações e está no ar na App Store e na Google Play. A maior parte desse código vive em repositórios privados — este perfil aqui é onde eu experimento.
+Sou Engenheiro de Software e construo produtos financeiros na **Finuse**, onde sou o maior contribuidor individual de uma plataforma de pagamentos que já processou **mais de R$ 2 milhões** em transações e está no ar na App Store e na Google Play. A maior parte desse código vive em repositórios privados, este perfil aqui é onde eu experimento.
 
 Gosto da parte que muita gente pula: entender o problema direito antes de escrever a primeira linha. Atuo do levantamento de requisitos ao desenho da arquitetura e à entrega, principalmente em **.NET** e **Angular**, com profundidade em pagamentos, KYC/compliance e integrações com provedores externos.
 
-Escrevo e trabalho em inglês no dia a dia — este perfil está em inglês por escolha, não por acaso.
+Escrevo e trabalho em inglês no dia a dia, este perfil está em inglês por escolha, não por acaso.
 
 </details>
